@@ -1,0 +1,36 @@
+.news-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.news-section {
+    width: 45%;
+    margin-bottom: 20px;
+}
+
+.news-list {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #9cfa70;
+}
+
+.news-item {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.news-item p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.video-section {
+    padding-left: 50%;
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* You can add more styling to customize the appearance further */
